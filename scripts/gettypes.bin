@@ -1,0 +1,129 @@
+"\u003cdiv onclick=\"RA_Akt_Add(57,this)\"\u003eАкт\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(52,this)\"\u003eДекларация\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(12,this)\"\u003eДекрет\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(58,this)\"\u003eДиректива\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(16,this)\"\u003eДоговор\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(99,this)\"\u003eДругие\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(5,this)\"\u003eЗаключение\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(1,this)\"\u003eЗакон Республики Беларусь\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(93,this)\"\u003eЗаявление\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(81,this)\"\u003eИнструкция\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(44,this)\"\u003eИсполнительный протокол\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(11,this)\"\u003eКодекс Республики Беларусь\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(18,this)\"\u003eКоммюнике\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(15,this)\"\u003eКонвенция\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(17,this)\"\u003eКонституция Республики Беларусь\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(53,this)\"\u003eМеморандум\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(63,this)\"\u003eМетодические рекомендации\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(60,this)\"\u003eМетодические указания\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(28,this)\"\u003eНота\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(26,this)\"\u003eПакт\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(8,this)\"\u003eПисьмо\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(82,this)\"\u003eПоложение\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(83,this)\"\u003eПорядок\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(2,this)\"\u003eПостановление\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(43,this)\"\u003eПравила\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(6,this)\"\u003eПриказ\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(662,this)\"\u003eПрограмма\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(7,this)\"\u003eПротокол\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(65,this)\"\u003eРазъяснение\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(4,this)\"\u003eРаспоряжение\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(32,this)\"\u003eРегламент\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(59,this)\"\u003eРезолюция\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(64,this)\"\u003eРекомендации\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(9,this)\"\u003eРешение\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(10,this)\"\u003eРешение референдума\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(14,this)\"\u003eСоглашение\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(70,this)\"\u003eТиповой учебный план\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(3,this)\"\u003eУказ\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(61,this)\"\u003eУказания\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(90,this)\"\u003eУстав\u003c/div\u003e\r\n\u003cdiv onclick=\"RA_Akt_Add(25,this)\"\u003eХартия\u003c/div\u003e"
+
+"\u003cdiv onclick="RA_Akt_Add(57,this)"\u003eАкт\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(52,this)"\u003eДекларация\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(12,this)"\u003eДекрет\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(58,this)"\u003eДиректива\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(16,this)"\u003eДоговор\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(99,this)"\u003eДругие\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(5,this)"\u003eЗаключение\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(1,this)"\u003eЗакон Республики Беларусь\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(93,this)"\u003eЗаявление\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(81,this)"\u003eИнструкция\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(44,this)"\u003eИсполнительный протокол\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(11,this)"\u003eКодекс Республики Беларусь\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(18,this)"\u003eКоммюнике\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(15,this)"\u003eКонвенция\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(17,this)"\u003eКонституция Республики Беларусь\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(53,this)"\u003eМеморандум\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(63,this)"\u003eМетодические рекомендации\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(60,this)"\u003eМетодические указания\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(28,this)"\u003eНота\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(26,this)"\u003eПакт\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(8,this)"\u003eПисьмо\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(82,this)"\u003eПоложение\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(83,this)"\u003eПорядок\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(2,this)"\u003eПостановление\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(43,this)"\u003eПравила\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(6,this)"\u003eПриказ\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(662,this)"\u003eПрограмма\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(7,this)"\u003eПротокол\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(65,this)"\u003eРазъяснение\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(4,this)"\u003eРаспоряжение\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(32,this)"\u003eРегламент\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(59,this)"\u003eРезолюция\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(64,this)"\u003eРекомендации\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(9,this)"\u003eРешение\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(10,this)"\u003eРешение референдума\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(14,this)"\u003eСоглашение\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(70,this)"\u003eТиповой учебный план\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(3,this)"\u003eУказ\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(61,this)"\u003eУказания\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(90,this)"\u003eУстав\u003c/div\u003e
+\u003cdiv onclick="RA_Akt_Add(25,this)"\u003eХартия\u003c/div\u003e"
+
+"<div onclick="RA_Akt_Add(57,this)">Акт</div>
+<div onclick="RA_Akt_Add(52,this)">Декларация</div>
+<div onclick="RA_Akt_Add(12,this)">Декрет</div>
+<div onclick="RA_Akt_Add(58,this)">Директива</div>
+<div onclick="RA_Akt_Add(16,this)">Договор</div>
+<div onclick="RA_Akt_Add(99,this)">Другие</div>
+<div onclick="RA_Akt_Add(5,this)">Заключение</div>
+<div onclick="RA_Akt_Add(1,this)">Закон Республики Беларусь</div>
+<div onclick="RA_Akt_Add(93,this)">Заявление</div>
+<div onclick="RA_Akt_Add(81,this)">Инструкция</div>
+<div onclick="RA_Akt_Add(44,this)">Исполнительный протокол</div>
+<div onclick="RA_Akt_Add(11,this)">Кодекс Республики Беларусь</div>
+<div onclick="RA_Akt_Add(18,this)">Коммюнике</div>
+<div onclick="RA_Akt_Add(15,this)">Конвенция</div>
+<div onclick="RA_Akt_Add(17,this)">Конституция Республики Беларусь</div>
+<div onclick="RA_Akt_Add(53,this)">Меморандум</div>
+<div onclick="RA_Akt_Add(63,this)">Методические рекомендации</div>
+<div onclick="RA_Akt_Add(60,this)">Методические указания</div>
+<div onclick="RA_Akt_Add(28,this)">Нота</div>
+<div onclick="RA_Akt_Add(26,this)">Пакт</div>
+<div onclick="RA_Akt_Add(8,this)">Письмо</div>
+<div onclick="RA_Akt_Add(82,this)">Положение</div>
+<div onclick="RA_Akt_Add(83,this)">Порядок</div>
+<div onclick="RA_Akt_Add(2,this)">Постановление</div>
+<div onclick="RA_Akt_Add(43,this)">Правила</div>
+<div onclick="RA_Akt_Add(6,this)">Приказ</div>
+<div onclick="RA_Akt_Add(662,this)">Программа</div>
+<div onclick="RA_Akt_Add(7,this)">Протокол</div>
+<div onclick="RA_Akt_Add(65,this)">Разъяснение</div>
+<div onclick="RA_Akt_Add(4,this)">Распоряжение</div>
+<div onclick="RA_Akt_Add(32,this)">Регламент</div>
+<div onclick="RA_Akt_Add(59,this)">Резолюция</div>
+<div onclick="RA_Akt_Add(64,this)">Рекомендации</div>
+<div onclick="RA_Akt_Add(9,this)">Решение</div>
+<div onclick="RA_Akt_Add(10,this)">Решение референдума</div>
+<div onclick="RA_Akt_Add(14,this)">Соглашение</div>
+<div onclick="RA_Akt_Add(70,this)">Типовой учебный план</div>
+<div onclick="RA_Akt_Add(3,this)">Указ</div>
+<div onclick="RA_Akt_Add(61,this)">Указания</div>
+<div onclick="RA_Akt_Add(90,this)">Устав</div>
+<div onclick="RA_Akt_Add(25,this)">Хартия</div>"
+
+57, Акт
+52, Декларация
+12, Декрет
+58, Директива
+16, Договор
+99, Другие
+5, Заключение
+1, Закон Республики Беларусь
+93, Заявление
+81, Инструкция
+44, Исполнительный протокол
+11, Кодекс Республики Беларусь
+18, Коммюнике
+15, Конвенция
+17, Конституция Республики Беларусь
+53, Меморандум
+63, Методические рекомендации
+60, Методические указания
+28, Нота
+26, Пакт
+8, Письмо
+82, Положение
+83, Порядок
+2, Постановление
+43, Правила
+6, Приказ
+662, Программа
+7, Протокол
+65, Разъяснение
+4, Распоряжение
+32, Регламент
+59, Резолюция
+64, Рекомендации
+9, Решение
+10, Решение референдума
+14, Соглашение
+70, Типовой учебный план
+3, Указ
+61, Указания
+90, Устав
+25, Хартия
+
+
