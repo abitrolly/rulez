@@ -91,8 +91,9 @@ NLP (natural language processing) и нейросетей для отслежи�
 
 ### Ссылки
 
- * https://petitions.by/petitions/578?utm_content=kuku.io&utm_medium=social&utm_source=ok.ru&utm_campaign=kuku.io
+ * https://petitions.by/petitions/578
  * https://www.facebook.com/petitionsby/posts/1902848586625567
+ * https://talash.by/be/drm-on-law-in-belarus
 
 ### Контакты
 
