@@ -91,13 +91,15 @@ NLP (natural language processing) и нейросетей для отслежи�
 
 ### Ссылки
 
- * https://petitions.by/petitions/578
- * https://www.facebook.com/petitionsby/posts/1902848586625567
- * https://talash.by/be/drm-on-law-in-belarus
+ * Петиция: https://petitions.by/petitions/578
+ * Петиция в Facebook: https://www.facebook.com/petitionsby/posts/1902848586625567
+ * Статья Фаланстер: https://talash.by/be/drm-on-law-in-belarus
+ 
+ * Анализ доступности законов РБ, GovTech хакатон: https://github.com/yaskevich/jus
 
 ### Контакты
 
-Открытость предполагает наличие истории и обсуждения для ссылок и
-проверки информации, поэтому https://github.com/abitrolly/rulez/issues
+Открытость - это непросто, но она необходима для людей, которые
+столкнуться с этой проблемой в будущем.
 
- -- Anatoli Babenia <anatoli@rainforce.org>, +375 (29) 3204241
+* Telegram канал: https://t.me/openlegalby
