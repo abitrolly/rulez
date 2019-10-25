@@ -95,10 +95,15 @@ NLP (natural language processing) и нейросетей для отслежи�
  * Петиция в Facebook: https://www.facebook.com/petitionsby/posts/1902848586625567
  * Статья Фаланстер: https://talash.by/be/drm-on-law-in-belarus
  
+<!-- -->
+
  * Анализ доступности законов РБ, GovTech хакатон: https://github.com/yaskevich/jus
+ * То, что хотели сделать 4 года назад на хакатоне с отечественным законодательством
+   * Поправки к конституции США https://github.com/JesseKPhillips/USA-Constitution
+   * Законы Германии с нормальными диффами в markdown https://github.com/bundestag/gesetze#german-federal-laws-and-regulations
+   * Инструменты для `gesetze` выше  https://github.com/bundestag/gesetze-tools
+ 
 
 ### Контакты
-
-Открытость - протокол будущего, давайте её практиковать.
 
 * Telegram канал: https://t.me/openlegalby
